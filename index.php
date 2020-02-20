@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>FPL Stats</title>
+<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
 <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css"/>
 <link rel="stylesheet" type="text/css" href="DataTables/DataTables-1.10.20/css/dataTables.bootstrap4.min.css"/>
 </head>

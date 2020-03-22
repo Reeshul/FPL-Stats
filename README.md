@@ -2,4 +2,4 @@ Sortable table showing data for all Premier League footballers with key performa
 
 Built using PHP and jQuery.
 
-View latest demo here - https://reeshul.com/fpl-stat
+View latest demo here - https://reeshul.com/fpl-stats

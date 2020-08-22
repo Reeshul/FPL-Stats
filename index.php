@@ -15,7 +15,7 @@ $json=file_get_contents("https://fantasy.premierleague.com/api/bootstrap-static/
 
 $data = json_decode($json, true);
 
-$clubs = array("Index", "Arsenal", "Aston Villa", "Bournemouth", "Brighton", "Burnley", "Chelsea", "Crystal Palace", "Everton", "Leicester", "Liverpool", "Man City", "Man Utd", "Newcastle", "Norwich", "Sheff Utd", "Southampton", "Tottenham", "Watford", "West Ham", "Wolves");
+$clubs = array("Index", "Arsenal", "Aston Villa", "Brighton", "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Leicester", "Leeds", "Liverpool", "Man City", "Man Utd", "Newcastle", "Sheff Utd", "Southampton", "Tottenham", "West Brom", "West Ham", "Wolves");
 
 
 ?>
